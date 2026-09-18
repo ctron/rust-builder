@@ -1,3 +1,5 @@
+context:
+  containerfile: ../Containerfile.ubi10
 packages:
   - git
   - python3
